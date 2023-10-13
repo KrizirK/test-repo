@@ -1,1 +1,1 @@
-a new file with value 
+a new file with second value
